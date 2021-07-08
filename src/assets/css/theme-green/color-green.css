@@ -1,0 +1,29 @@
+.header{
+    background: -webkit-linear-gradient(left, #75d3f885  ,white,#ccedfd); /* Safari 5.1 - 6.0 */;
+}
+.login-wrap{
+    background: rgba(56, 157, 170, 0.82);;
+}
+.plugins-tips{
+    background: #f2f2f2;
+}
+.plugins-tips a{
+    color: #34d4e9ce;
+}
+.el-upload--text em {
+    color: #34d4e9ce;
+}
+.pure-button{
+    background:  #34d4e9ce;
+}
+.pagination > .active > a, .pagination > .active > a:hover, .pagination > .active > a:focus, .pagination > .active > span, .pagination > .active > span:hover, .pagination > .active > span:focus {
+    background-color: #34d4e9ce !important;
+    border-color: #34d4e9ce !important;
+}
+.tags-li.active {
+    border: 1px solid #34d4e9ce;
+    background-color: #34d4e9ce;
+}
+.collapse-btn:hover{
+    background: #34d4e9ce;
+}
